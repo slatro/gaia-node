@@ -97,6 +97,7 @@ python3 gaiabot.py
 > tokenininizin biteceğini unutmayın , expler önemli.
 
 
+> Akabinde node puan artacak (24 saat sonra)
 
-
+<img width="544" alt="Ekran Resmi 2025-02-07 21 55 26" src="https://github.com/user-attachments/assets/6157d573-2793-482c-9011-f125c7680aab" />
 
